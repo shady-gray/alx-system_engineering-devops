@@ -1,2 +1,2 @@
 #!/bin/bash
-head -10 /etc/passwd<F11>
+head -10 /etc/passwd
