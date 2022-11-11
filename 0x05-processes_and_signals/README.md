@@ -1,4 +1,4 @@
-#0x05. Processes and signals
+0x05. Processes and signals
 
 General
 What is a PID
